@@ -1,0 +1,51 @@
+{
+    "details":{
+     "name":"K Dinesh Kumar",
+     "email":"dinesh@gmail.com",
+     "number":"9999934567",
+     "address":"Chittoor"
+    },
+    "careerobjective":{
+     "info":"To secure challenging position where my knowledge can be used in successive completion and to be an exemplary asset to the working organization."
+    },
+    "education":[
+     {
+      "degree":"MCA",
+      "institute":"S.V Uiversity",
+      "passoutyear":"2020",
+      "percentage":"71%"
+   
+     },
+     {
+        "degree":"B.Sc",
+        "institute":"Mother thresa Degree college",
+        "passoutyear":"2017",
+        "percentage":"78%"
+   
+     },
+     {
+        "degree":"+2(MPC)",
+        "institute":"Mother theresa junior collge",
+        "passoutyear":"2014",
+        "percentage":"84%"
+   
+     },
+     {
+
+      "degree":"SSC",
+      "institute":"Z.P High School",
+      "passoutyear":"2012",
+      "percentage":"85%"
+   
+     }
+    ],
+    "declaration":"I hereby declare that the information provided above is true to my knowledge and I bare responsibility of its contents.",
+
+    "technicalskills":[
+     "Java","HTML,CSS,JAVASCRIPT"
+    ],
+
+    "hobbies":[
+        "Reading books","listening music"
+    ]
+   }
