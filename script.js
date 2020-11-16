@@ -10,7 +10,6 @@ function readTextFile(file, callback) {
   rawFile.send(null);
 }
 
-//usage:
 readTextFile("/data.json", function (text) {
   var data = JSON.parse(text);
   const root_elem = document.createElement("div");
